@@ -5,6 +5,7 @@ A real-time Sign Language recognition system that converts hand gestures (ASL or
 ---
 
 ## 📸 Demo Video
+<https://drive.google.com/file/d/1bxKiKghhI2f9RJ261TaTe5aj7_XdAdcJ/view?usp=sharing>
 
 
 ---
